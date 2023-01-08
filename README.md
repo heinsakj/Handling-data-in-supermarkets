@@ -1,3 +1,4 @@
+[Estimating food demand.pdf](https://github.com/heinsakj/mid-project/files/10369448/Estimating.food.demand.pdf)
 # Estimating food demand for supermarkets
 This project was choosen to tackle the question of how (online) supermarkets can use data to reduce food waste.
 
@@ -6,7 +7,7 @@ I choose this project because every year supermarkets produce around 200.000 ton
 
 For this project the following data set provided by Instacart was used. https://www.kaggle.com/competitions/instacart-market-basket-analysis
 
-Attached please find the presentation.
+Attached please find the presentation.[Estimating food demand.pdf](https://github.com/heinsakj/mid-project/files/10369448/Estimating.food.demand.pdf)
 
 
 References:
