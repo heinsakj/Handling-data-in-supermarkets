@@ -6,7 +6,9 @@ I choose this project because every year supermarkets produce around 200.000 ton
 
 For this project the following data set provided by Instacart was used. https://www.kaggle.com/competitions/instacart-market-basket-analysis
 
-Link to my Tableau presentation : https://public.tableau.com/shared/N73R7KS3C?:display_count=n&:origin=viz_share_link
+Attached please find the presentation.
+
 
 References:
 (1) https://www.theguardian.com/business/2022/feb/22/supermarkets-wasting-200000-tonnes-of-food-that-could-go-to-needy-say-charities
+(2) Link to my Tableau board: https://public.tableau.com/shared/N73R7KS3C?:display_count=n&:origin=viz_share_link
